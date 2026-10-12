@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\bin\Debug\CASO_EMPLEADO.exe.config
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\bin\Debug\CASO_EMPLEADO.exe
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\bin\Debug\CASO_EMPLEADO.pdb
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\obj\Debug\CASO_EMPLEADO.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\obj\Debug\CASO_EMPLEADO.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\obj\Debug\CASO_EMPLEADO.exe
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\obj\Debug\CASO_EMPLEADO.pdb
+C:\Users\UPN\Documents\Semana9_CasoEmpleado\CASO_EMPLEADO\CASO_EMPLEADO\obj\Debug\CASO_EMPLEADO.exe.config

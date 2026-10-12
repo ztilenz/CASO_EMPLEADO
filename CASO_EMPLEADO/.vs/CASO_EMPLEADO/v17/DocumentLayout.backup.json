@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Documents\\Semana9_CasoEmpleado\\CASO_EMPLEADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C5B4A3-C4B3-43A9-ADC5-19C971CD8198}|CASO_EMPLEADO\\CASO_EMPLEADO.csproj|c:\\users\\upn\\documents\\semana9_casoempleado\\caso_empleado\\caso_empleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C5B4A3-C4B3-43A9-ADC5-19C971CD8198}|CASO_EMPLEADO\\CASO_EMPLEADO.csproj|solutionrelative:caso_empleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\Semana9_CasoEmpleado\\CASO_EMPLEADO\\CASO_EMPLEADO\\Program.cs",
+              "RelativeDocumentMoniker": "CASO_EMPLEADO\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Documents\\Semana9_CasoEmpleado\\CASO_EMPLEADO\\CASO_EMPLEADO\\Program.cs",
+              "RelativeToolTip": "CASO_EMPLEADO\\Program.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAYwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:22:07.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
